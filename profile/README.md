@@ -1,0 +1,3 @@
+- How many calendars do you have?
+- Can you keep track of all your contacts?
+- Do you want to separate your work from your private life, while not losing overview of your calendars and contacts?
